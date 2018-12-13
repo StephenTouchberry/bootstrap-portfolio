@@ -1,0 +1,55 @@
+.navRow {
+    width: 100%;
+}
+li {
+    float: left;
+    margin-top: 10%;
+}
+
+body {
+    background: url("../images/skulls.png");
+}
+
+.navbackground {
+    width: 100%;
+    background: white;
+
+}
+
+.name {
+    background: teal;
+    color: white;
+    padding: 15px;
+    font-size: 30px;
+    margin: 0 auto;
+}
+
+.card {
+    margin-top: 10%;
+}
+
+.image {
+    float: left;
+    height: 200px;
+    margin: 0 10px 10px 0;
+}
+.footer {
+    margin-top: 10%;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: white;
+    text-align: center;
+}
+
+.submitButton {
+    color: white;
+}
+
+.portfolioimg {
+    width: 100%;
+
+}
+.rowSpace {
+    margin-top: 3%;
+}
